@@ -1,2 +1,3 @@
 # Basic-sfml-game
-First game try
+C++ SFML Game
+##
